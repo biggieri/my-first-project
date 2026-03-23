@@ -1,0 +1,9 @@
+product,category,price,quantity,date
+Apple,Produce,1.99,150,2026-01-15
+MILK,dairy,3.49,,2026-01-15
+bread,Bakery,2.99,60,2026-01-16
+Cheese,DAIRY,5.99,45,2026-01-16
+eggs,Dairy,4.49,90,2026-01-17
+,Produce,0.99,30,2026-01-17
+Apple,Produce,1.99,200,2026-01-18
+BREAD,bakery,,75,2026-01-18
